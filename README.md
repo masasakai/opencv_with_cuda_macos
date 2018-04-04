@@ -1,0 +1,2 @@
+# opencv_with_cuda_macos
+macosに対するopencvのコンパイル手法
